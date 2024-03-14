@@ -15,9 +15,13 @@
 **Features**
 
 -Simple and Intuitive Learning : Teachify has bright colors and engaging visuals that capture children’s attention
+
 -Dictionary : It enables user to get every word it searches
+
 -Talking Bot : User can interact with bot and learn multiple languages more efficiently
+
 -Wikipedia : It provides user to search everything and get result in multiple languages
+
 -Planned Courses : The courses are planned according to children’s age group and their learning ability
 
 **Project Outcome** 
