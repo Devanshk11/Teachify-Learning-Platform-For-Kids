@@ -14,15 +14,27 @@
 
 **Features**
 
--<u>Simple and Intuitive Learning</u> : Teachify has bright colors and engaging visuals that capture children’s attention
-
+-Simple and Intuitive Learning : Teachify has bright colors and engaging visuals that capture children’s attention
 -Dictionary : It enables user to get every word it searches
-
 -Talking Bot : User can interact with bot and learn multiple languages more efficiently
-
 -Wikipedia : It provides user to search everything and get result in multiple languages
-
 -Planned Courses : The courses are planned according to children’s age group and their learning ability
+
+**Project Outcome** 
+
+-Teachify helps user to experience new way of studying rather than traditional way
+-Simple and interactive content for children
+-With this user will save time and cost as they can learn many new things from their home
+-Teachify provides kids with a fun and interactive way to learn new concepts and skills , which can help them in school and academics
+
+**Technology Stack**
+
+-FRONT END :- Pycharm 2022.3.2                    
+-BACK END :-  MySQL 8.0
+                              
+
+
+
 
 
 
