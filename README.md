@@ -1,4 +1,4 @@
-**Introduction :-**
+## **Introduction :-**
 
 -Teachify is an innovative and engaging learning app designed specifically for children. The app offers a range of features that help kids learn in a fun and interactive way.
 
@@ -9,7 +9,7 @@
 -This application provides proper and interactive way of learning from home.
 
 
-**Objectives :-**
+## **Objectives :-**
 
 -To provide easy and interactive platform for learning for everyone.
 
@@ -20,7 +20,7 @@
 -To enhance Quality learning.
 
 
-**Features :-**
+## **Features :-**
 
 -Simple and Intuitive Learning : Teachify has bright colors and engaging visuals that capture children’s attention.
 
@@ -33,7 +33,7 @@
 -Planned Courses : The courses are planned according to children’s age group and their learning ability.
 
 
-**Project Outcome :-** 
+## **Project Outcome :-** 
 
 -Teachify helps user to experience new way of studying rather than traditional way.
 
@@ -44,13 +44,24 @@
 -Teachify provides kids with a fun and interactive way to learn new concepts and skills , which can help them in school and academics.
 
 
-**Technology Stack :-**
+## **Technology Stack :-**
 
 -FRONT END :- Pycharm 2022.3.2                 
 
 -BACK END :-  MySQL 8.0
-                              
 
+
+1. Clone this repository to your local machine.
+2. Customize the content in the .py files to reflect your own information and style preferences.
+
+
+## Contributing
+I welcome contributions and feedback! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+                              
+## Contact
+For any inquiries or further information, you can reach me at dskapsit@gmail.com
+
+Thank you for visiting my portfolio!
 
 
 
