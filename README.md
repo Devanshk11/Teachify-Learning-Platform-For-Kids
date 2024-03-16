@@ -51,17 +51,13 @@
 -BACK END :-  MySQL 8.0
 
 
-1. Clone this repository to your local machine.
-2. Customize the content in the .py files to reflect your own information and style preferences.
-
-
 ## Contributing
 I welcome contributions and feedback! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
                               
 ## Contact
 For any inquiries or further information, you can reach me at dskapsit@gmail.com
 
-Thank you for visiting my portfolio!
+Thank you for visiting my profile!
 
 
 
